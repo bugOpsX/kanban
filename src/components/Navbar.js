@@ -200,7 +200,7 @@ const Navbar = ({ user, tasks = [], categories = [], onTaskSelect, onCategorySel
         {/* Left section */}
         <Box sx={{ display: 'flex', alignItems: 'center', width: '200px' }}>
           <Typography variant="h6">
-            Kanban
+            Task Manager
           </Typography>
         </Box>
 
